@@ -15,7 +15,7 @@ Esta aula é o início do curso sobre automação com Cypress, focando nos prime
 ## Material e exercício
 
  - [Aula 0](./Cypress-Aula0.pdf)
- Para sugestões, dúvidas, correções de exercícios, me deixe saber por meio de dionisio.soares@qualitydigital.global
+ Para sugestões, dúvidas, correções de exercícios, me deixe saber por meio de dio.soares@gmail.com
 
 
 ## Referência
