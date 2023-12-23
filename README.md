@@ -1,24 +1,26 @@
-# AULA 0
-![Static Badge](https://img.shields.io/badge/criado-dezembro%2F2023-blue)
-![Static Badge](https://img.shields.io/badge/licence-nenhuma-yellow)
+## AULA 1
+![Static Badge](https://img.shields.io/badge/automa%C3%A7%C3%A3o-Cypress-green)
+![Static Badge](https://img.shields.io/badge/iniciado-dezembro%2F2023-blue)
 
+Nesta aula, foram abordados os conceitos e aplicações do uso Git, e promovemos o primeiro arquivo relacionado ao projeto de automação.
 
+- Consulta do Ramo Atual (Branch);
+- Criação e Alteração de Ramos (Branches);
+- Criação do Arquivo package.json;
+- Consulta e Adição de Alterações no Projeto;
+- Captura Instantânea de Modificações (Commit);
+- Principais problemas;
+- Promoção de Alterações para o Repositório Remoto;
+- Exercícios de Fixação e Extra:
 
-Esta aula é o início do curso sobre automação com Cypress, focando nos primeiros passos. Os tópicos incluem:
-- Instalação de ferramentas como Visual Studio Code Git e Node.js;
-- Criação de um repositório no GitHub;
-- Processo de baixar o repositório para a máquina local usando comandos Git;
-- Comandos prompt;
-- Exercícios práticos, como criar repositórios no GitHub e baixá-los;
-- Exercícios extras, como a exclusão de repositórios no GitHub.
+## Material e exercicio
 
-## Material e exercício
-
- - [Aula 0](./Cypress-Aula0.pdf)
- Para sugestões, dúvidas, correções de exercícios, me deixe saber por meio de dio.soares@gmail.com
+ - [Conteúdo didático referente a Aula 1](./Cypress-Aula_1.pdf)
+ - Para sugestões, dúvidas, correções de exercícios, me deixe saber por meio de dionisio.soares@qualitydigital.global
 
 
 ## Referência
 
- - [Principais comandos prompt](https://www.ufsm.br/app/uploads/sites/762/2021/05/Principais-comandos-do-prompt-do-Windows-CMD.pdf)
- - [10 principais Comandos Git](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)
+ - [Blog do Gabriel sobre package.json](https://gabrieluizramos.com.br/entendendo-o-package-json)
+ - [Prompt Cmder](https://cmder.app)
+ - [Mais comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
