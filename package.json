@@ -1,0 +1,12 @@
+{
+  "name": "aprendendo_cypress",
+  "version": "1.0.0",
+  "description": "![Static Badge](https://img.shields.io/badge/criado-dezembro%2F2023-blue)\r ![Static Badge](https://img.shields.io/badge/licence-nenhuma-yellow)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
