@@ -11,7 +11,7 @@ Os conteúdos são fracionadas e no final do material apresentam exercícios pr�
 ### Objetivo
 -  Compartilhar conhecimento em automação e Git;
 
-## Público
+### Público
 - Todos os interessados;
 
 ## Sumário
