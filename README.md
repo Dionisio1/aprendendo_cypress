@@ -16,7 +16,7 @@ Nesta aula, foram abordados os conceitos e aplicações do uso Git, e promovemos
 ## Material e exercicio
 
  - [Conteúdo didático referente a Aula 1](./Cypress-Aula_1.pdf)
- - Para sugestões, dúvidas, correções de exercícios, me deixe saber por meio de dionisio.soares@qualitydigital.global
+ - Para sugestões, dúvidas, correções de exercícios, me deixe saber por meio de dio.soares@gmail.com
 
 
 ## Referência
